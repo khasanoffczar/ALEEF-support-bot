@@ -8,7 +8,7 @@ import sqlite3
 import random
 
 # Твой TOKEN от @BotFather
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7966781069:AAHQvdj1USQNQ2TrrmmrJ229BLqwh7I2DV4"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
